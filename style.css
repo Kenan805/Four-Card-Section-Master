@@ -1,12 +1,13 @@
 /* Global */
 
 .main {
-  background-color: #F0F0F0;
+  background-color: #FAFAFA;
   font-size: 16px;
   font-family: Karla, Helvetica, sans-serif;
-  margin: 70px;
+  margin: auto;
   max-width: 1440px;
   font-weight: 400;
+  
 
 }
 
@@ -18,27 +19,28 @@
   margin: auto;
 }
 #firstTitle{
-  font-size: 120%; 
+  font-size: 180%; 
   color: grey;
   
 }
   
 #secondTitle{
   font-weight: 700;
-  font-size: 140%; 
+  font-size: 180%; 
 }
 
 #headerParagraph{
   color: grey;
   width: 60%;
   margin: auto;
-  font-size: 65%;
+  font-size: 80%;
 }
 
 /* Cards */
 
 .container{
-  width: 90%;
+  width: 70% !important;
+  margin: auto;
 }
 
 #col{
@@ -78,7 +80,7 @@
 
 .card-text {
 color: grey;
-font-size: 65%;
+font-size: 75%;
 }
 
 .card img {
