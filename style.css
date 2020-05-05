@@ -1,0 +1,99 @@
+/* Global */
+
+.main {
+  background-color: #F0F0F0;
+  font-size: 16px;
+  font-family: Karla, Helvetica, sans-serif;
+  margin: 70px;
+  max-width: 1440px;
+  font-weight: 400;
+
+}
+
+/* Header */
+
+.header {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+#firstTitle{
+  font-size: 120%; 
+  color: grey;
+  
+}
+  
+#secondTitle{
+  font-weight: 700;
+  font-size: 140%; 
+}
+
+#headerParagraph{
+  color: grey;
+  width: 60%;
+  margin: auto;
+  font-size: 65%;
+}
+
+/* Cards */
+
+.container{
+  width: 90%;
+}
+
+#col{
+  padding:0;
+  margin-top: 15px;
+}
+
+#supervisor {
+  border-top: 3px solid  hsl(179, 74%, 60%);
+  height: 50%;
+  margin: auto;
+}
+
+#teambuilder {
+  border-top: 3px solid rgb(201, 5, 5);
+  margin-bottom: 15px;
+  
+}
+
+#karma{
+  border-top: 3px solid  rgb(231, 155, 14);
+  margin-bottom: 15px;
+ 
+}
+
+#calculator {
+  border-top: 3px solid  hsl(179, 62%, 43%);
+  height: 50%;
+  margin: auto;
+ } 
+
+
+.card-title {
+  font-weight: 700;
+  
+}
+
+.card-text {
+color: grey;
+font-size: 65%;
+}
+
+.card img {
+  float: right;
+}
+
+
+ /* Footer */
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center; 
+  margin-top: 20px;
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%);
+ }
