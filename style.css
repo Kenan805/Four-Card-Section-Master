@@ -4,10 +4,10 @@
   background-color: #FAFAFA;
   font-size: 16px;
   font-family: Karla, Helvetica, sans-serif;
-  margin: auto;
+  
   max-width: 1440px;
   font-weight: 400;
-  
+  margin-top: 100px;
 
 }
 
@@ -15,31 +15,30 @@
 
 .header {
   text-align: center;
-  width: 60%;
+  width: 70%;
   margin: auto;
 }
 #firstTitle{
-  font-size: 180%; 
+  font-size: 30px; 
   color: grey;
   
 }
   
 #secondTitle{
   font-weight: 700;
-  font-size: 180%; 
+  font-size: 200%; 
 }
 
 #headerParagraph{
   color: grey;
-  width: 60%;
+  width: 70%;
   margin: auto;
-  font-size: 80%;
-}
+  }
 
 /* Cards */
 
 .container{
-  width: 70% !important;
+  width: 80% !important;
   margin: auto;
 }
 
